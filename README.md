@@ -1,6 +1,6 @@
 A very quick puzzle platformer game with presentation-themed levels: "Slides Girl: Illusions". Coded with Godot 4.6.
 
-Ella drew and animated the main character Slides Girl, and composed the background music. SHuang redrew much of the slides levels to be more distorted and edited the level transition cutscenes. Keith (https://github.com/PreacherKeith), Mark (https://github.com/BingBingen), and I particularly worked on separate levels and mechanics.
+Ella drew and animated the main character Slides Girl, and composed the background music. SHuang redrew much of the slides levels to be more distorted and edited the level transition cutscenes. Keith (https://github.com/PreacherKeith), Mark (https://github.com/BingBingen), and Drew-LC particularly worked on separate levels and mechanics.
 
 Used sound effects from Freesound. Generative AI was not used in the creation of this game.
 
