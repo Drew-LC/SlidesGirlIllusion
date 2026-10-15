@@ -4,4 +4,4 @@ Ella drew and animated the main character Slides Girl, and composed the backgrou
 
 Used sound effects from Freesound. Generative AI was not used in the creation of this game.
 
-I permit the viewing and usage of any of this game's code for any reason. I permit the viewing and limited usage of this game's art, but I do not permit falsely claiming the art as your own or using it to train generative AI models.
+We permit the viewing and usage of any of this game's code for any reason. We permit the viewing and limited usage of this game's art, but we do not permit falsely claiming the art as your own or using it to train generative AI models.
